@@ -2,7 +2,7 @@ const font = new Font();
 const Black = Color.new(0,0,0); 
 const White = Color.new(255,255,255); 
 var posx = 0; //posição inicial do personagem 
-var posy = 0;; //posição inicial do personagem 
+var posy = 0; //posição inicial do personagem 
 var velocidade = 2; //velocidade do personagem 
 class person {
   draw() {
